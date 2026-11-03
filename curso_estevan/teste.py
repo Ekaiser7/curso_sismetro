@@ -16,4 +16,4 @@ resposta_presenca = input('Status de Presença: ')
 
 print(f'nome: {nome}, idade: {idade}, Presenca:{resposta_presenca}')
 
-print("OI")
+print("oi")
